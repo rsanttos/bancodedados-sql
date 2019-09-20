@@ -1,0 +1,1 @@
+SELECT p.pname FROM mailorder.parts p WHERE p.price < 20;
